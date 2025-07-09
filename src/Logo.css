@@ -1,0 +1,19 @@
+.logo-topleft {
+  transition: filter 0.3s, transform 0.3s;
+  cursor: pointer;
+}
+
+.logo-topleft:hover {
+  filter: drop-shadow(0 0 10px #137E7E88) brightness(1.1);
+  transform: scale(1.07) rotate(-2deg);
+}
+
+.logo-topleft-text {
+  transition: color 0.3s, text-shadow 0.3s;
+  cursor: pointer;
+}
+
+.logo-topleft-text:hover {
+  color: #0a4d4d;
+  text-shadow: 0 2px 12px #137E7E44;
+}

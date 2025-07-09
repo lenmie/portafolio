@@ -1,0 +1,23 @@
+.scroll-to-top {
+  position: fixed;
+  bottom: 32px;
+  right: 32px;
+  background: transparent;
+  border-radius: 6px;
+  padding: 4px 14px;
+  font-size: 1.2em;
+  font-family: 'Arial', 'Helvetica', sans-serif;
+  font-weight: 500;
+  letter-spacing: 1px;
+  cursor: pointer;
+  z-index: 2000;
+  transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+  box-shadow: none;
+  outline: none;
+}
+
+.scroll-to-top:hover {
+  background: #22313a;
+  
+  box-shadow: 0 0 0 2px #50f2f244;
+}

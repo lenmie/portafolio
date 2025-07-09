@@ -1,0 +1,65 @@
+.work-experience-section h2 {
+  text-align: start;
+  margin-left: 0;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+  margin-top: 0; /* Eliminar margen superior excesivo */
+  font-size: 1em;
+}
+
+.work-experience-section p {
+  max-width: 420px;
+  margin-left: 0;
+  margin-right: 0;
+  line-height: 1.35;
+  font-size: 1em;
+  text-align: left;
+}
+
+.work-section {
+  text-align: center;
+  margin: 40px auto;
+  max-width: 700px;
+  margin-top: 40%;
+}
+
+.work-section p {
+  font-size: 0.95em;
+  line-height: 1.6;
+  color: #fff;
+}
+.work-experience-section, .about-section, .contact-section {
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+.work-experience-section h2, .about-section h2, .contact-section h2 {
+  text-align: start;
+  margin-left: 0;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+  margin-top: 0; /* Eliminar margen superior excesivo */
+  font-size: 1em;
+}
+
+.about-section {
+  font-size: 1em;
+}
+
+.work-experience-section {
+  font-size: 1em;
+}
+
+.gradient-frame {
+  font-size: 1em;
+}
+
+.about-section h2,
+.work-experience-section h2 {
+  font-size: 1em;
+}
+
+.about-section,
+.work-experience-section {
+  font-size: 1em;
+}

@@ -1,0 +1,23 @@
+.front-title {
+  font-size: 0.7em;
+  font-weight: bold;
+  color: #137E7E;
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+  text-align: left;
+  margin-left: 0;
+  margin-right: auto;
+  flex-direction: row;
+}
+
+.front-name {
+   color: #1e8a8a;
+   margin-top: 0px;
+   font-size: 4.5em;
+   text-align: left;
+   margin-left: -52px;
+   margin-right: auto;
+   justify-content: flex-end;
+   flex-direction: row-reverse;
+   display: flex;
+}
